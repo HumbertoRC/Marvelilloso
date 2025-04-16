@@ -1,0 +1,65 @@
+{
+    "movies": [
+      {
+        "title": "Black Widow",
+        "image": "images/movies/blackwidow.webp",
+        "alt": "Black Widow"
+      },
+      {
+        "title": "Shang-Chi",
+        "image": "images/movies/shangchi.webp",
+        "alt": "Shang-Chi"
+      },
+      {
+        "title": "Eternals",
+        "image": "images/movies/eternals.webp",
+        "alt": "Eternals"
+      },
+      {
+        "title": "Spider-Man: No Way Home",
+        "image": "images/movies/nowayhome.webp",
+        "alt": "Spider-Man: No Way Home"
+      },
+      {
+        "title": "Doctor Strange en el multiverso de la locura",
+        "image": "images/movies/multiversodelocura.webp",
+        "alt": "Doctor Strange en el multiverso de la locura"
+      },
+      {
+        "title": "Thor Love and Thunder",
+        "image": "images/movies/loveandthunder.webp",
+        "alt": "Thor Love and Thunder"
+      },
+      {
+        "title": "Black Panther: Wakanda Forever",
+        "image": "images/movies/wakandaforever.webp",
+        "alt": "Black Panther: Wakanda Forever"
+      },
+      {
+        "title": "Ant-Man & Wasp Quantumania",
+        "image": "images/movies/antman3.webp",
+        "alt": "Ant-Man & Wasp Quantumania"
+      },
+      {
+        "title": "Guardianes de la galaxia Vol.3",
+        "image": "images/movies/guardianes3.webp",
+        "alt": "Guardianes de la galaxia Vol.3"
+      },
+      {
+        "title": "The Marvels",
+        "image": "images/movies/marvels.webp",
+        "alt": "The Marvels"
+      },
+      {
+        "title": "Deadpool & Wolverine",
+        "image": "images/movies/DeadpoolWolverine.webp",
+        "alt": "Deadpool & Wolverine"
+      },
+      {
+        "title": "Capitan America un nuevo mundo",
+        "image": "images/movies/Nuevo mundo.webp",
+        "alt": "Capitan America un nuevo mundo"
+      }
+    ]
+  }
+  

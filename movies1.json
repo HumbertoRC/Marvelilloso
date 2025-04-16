@@ -1,0 +1,120 @@
+{
+    "movies": [
+      {
+        "title": "Iron Man",
+        "image": "images/movies/ironman.webp",
+        "alt": "Iron Man"
+      },
+      {
+        "title": "El increible Hulk",
+        "image": "images/movies/Hulk.webp",
+        "alt": "El increible Hulk"
+      },
+      {
+        "title": "Iron Man 2",
+        "image": "images/movies/ironman2.webp",
+        "alt": "Iron Man 2"
+      },
+      {
+        "title": "Thor",
+        "image": "images/movies/Thor.webp",
+        "alt": "Thor"
+      },
+      {
+        "title": "Capitan America",
+        "image": "images/movies/Capitan America.webp",
+        "alt": "Capitan America"
+      },
+      {
+        "title": "Los Vengadores",
+        "image": "images/movies/Avengers.webp",
+        "alt": "Los Vengadores"
+      },
+      {
+        "title": "Iron Man 3",
+        "image": "images/movies/ironman3.webp",
+        "alt": "Iron Man 3"
+      },
+      {
+        "title": "Thor: Un mundo oscuro",
+        "image": "images/movies/thor2.webp",
+        "alt": "Thor: Un mundo oscuro"
+      },
+      {
+        "title": "Capitan America y el soldado del invierno",
+        "image": "images/movies/capitan America2.webp",
+        "alt": "Capitan America y el soldado del invierno"
+      },
+      {
+        "title": "Guardianes de la galaxia Vol.1",
+        "image": "images/movies/Guardianes.webp",
+        "alt": "Guardianes de la galaxia Vol.1"
+      },
+      {
+        "title": "Vengadores: Era de ultron",
+        "image": "images/movies/Avengers2.webp",
+        "alt": "Vengadores: Era de ultron"
+      },
+      {
+        "title": "Ant-Man",
+        "image": "images/movies/antman.webp",
+        "alt": "Ant-Man"
+      },
+      {
+        "title": "Capitan America: Civil War",
+        "image": "images/movies/civilwar.webp",
+        "alt": "Capitan America: Civil War"
+      },
+      {
+        "title": "Doctor Strange",
+        "image": "images/movies/Doctor_Strange.webp",
+        "alt": "Doctor Strange"
+      },
+      {
+        "title": "Guardianes de la galaxia Vol.2",
+        "image": "images/movies/Guardianes2.webp",
+        "alt": "Guardianes de la galaxia Vol.2"
+      },
+      {
+        "title": "Spider-Man: Homecoming",
+        "image": "images/movies/homecoming.webp",
+        "alt": "Spider-Man: Homecoming"
+      },
+      {
+        "title": "Thor Ragnarok",
+        "image": "images/movies/Thor3.webp",
+        "alt": "Thor Ragnarok"
+      },
+      {
+        "title": "Pantera Negra",
+        "image": "images/movies/pantera.webp",
+        "alt": "Pantera Negra"
+      },
+      {
+        "title": "Vengadores: Infinity War",
+        "image": "images/movies/infinitywar.webp",
+        "alt": "Vengadores: Infinity War"
+      },
+      {
+        "title": "Ant-Man & Wasp",
+        "image": "images/movies/antman2.webp",
+        "alt": "Ant-Man & Wasp"
+      },
+      {
+        "title": "Capitana Marvel",
+        "image": "images/movies/capitanamarvel.webp",
+        "alt": "Capitana Marvel"
+      },
+      {
+        "title": "Vengadores: End Game",
+        "image": "images/movies/endgame.webp",
+        "alt": "Vengadores: End Game"
+      },
+      {
+        "title": "Spider-Man: Lejos de casa",
+        "image": "images/movies/lejosdecasa.webp",
+        "alt": "Spider-Man: Lejos de casa"
+      }
+    ]
+  }
+  

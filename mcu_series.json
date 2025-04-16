@@ -1,0 +1,110 @@
+{
+    "series": [
+      {
+        "title": "Agents of SHIELD",
+        "image": "images/series/agentesshield.webp",
+        "alt": "Agents of SHIELD"
+      },
+      {
+        "title": "Agente Carter",
+        "image": "images/series/carter.webp",
+        "alt": "Agente Carter"
+      },
+      {
+        "title": "Inhumans",
+        "image": "images/series/inhumans.webp",
+        "alt": "Inhumans"
+      },
+      {
+        "title": "Daredevil",
+        "image": "images/series/daredevil.webp",
+        "alt": "Daredevil"
+      },
+      {
+        "title": "Jessica Jones",
+        "image": "images/series/jessicajones.webp",
+        "alt": "Jessica Jones"
+      },
+      {
+        "title": "Luke Cage",
+        "image": "images/series/lukecage.webp",
+        "alt": "Luke Cage"
+      },
+      {
+        "title": "Iron Fist",
+        "image": "images/series/ironfist.webp",
+        "alt": "Iron Fist"
+      },
+      {
+        "title": "The Defenders",
+        "image": "images/series/defenders.webp",
+        "alt": "The Defenders"
+      },
+      {
+        "title": "WandaVision",
+        "image": "images/series/wandavision.webp",
+        "alt": "WandaVision"
+      },
+      {
+        "title": "Falcon y El soldado del invierno",
+        "image": "images/series/falconandsoldier.webp",
+        "alt": "Falcon y El soldado del invierno"
+      },
+      {
+        "title": "Loki",
+        "image": "images/series/loki.webp",
+        "alt": "Loki"
+      },
+      {
+        "title": "What If... ?",
+        "image": "images/series/whatif.webp",
+        "alt": "What If... ?"
+      },
+      {
+        "title": "Hawkeye",
+        "image": "images/series/hawkeye.webp",
+        "alt": "Hawkeye"
+      },
+      {
+        "title": "Moon Knight",
+        "image": "images/series/moonknight.webp",
+        "alt": "Moon Knight"
+      },
+      {
+        "title": "Ms. Marvel",
+        "image": "images/series/msmarvel.webp",
+        "alt": "Ms. Marvel"
+      },
+      {
+        "title": "I Am Groot",
+        "image": "images/series/groot.webp",
+        "alt": "I Am Groot"
+      },
+      {
+        "title": "She Hulk",
+        "image": "images/series/shehulk.webp",
+        "alt": "She Hulk"
+      },
+      {
+        "title": "Secret Invasion",
+        "image": "images/series/secretinvasion.webp",
+        "alt": "Secret Invasion"
+      },
+      {
+        "title": "Echo",
+        "image": "images/series/echo.webp",
+        "alt": "Echo"
+      },
+      {
+        "title": "Agatha All Along",
+        "image": "images/series/agatha.webp",
+        "alt": "Agatha All Along"
+      },
+      {
+        "title": "Daredevil: Born Again",
+        "image": "images/series/daredevilbornagain.webp",
+        "alt": "Daredevil: Born Again"
+      }
+    ]
+  }
+  
