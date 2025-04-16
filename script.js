@@ -138,9 +138,15 @@ document.addEventListener("DOMContentLoaded", () => {
         .catch(error => console.error('Error al cargar las series:', error));
 });
 
-
-var button = document.getElementById('slide');
-button.onclick = function () {
-    var container = document.getElementById('movies1');
-    sideScroll(container,'right',25,100,10);
-};
+    document.querySelectorAll(".scroll-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+            const targetId = btn.getAttribute("data-target");
+            const track = document.getElementById(targetId);
+            const scrollAmount = 300;
+            if (btn.classList.contains("left")) {
+                track.scrollBy({ left: -scrollAmount, behavior: "smooth" });
+            } else {
+                track.scrollBy({ left: scrollAmount, behavior: "smooth" });
+            }
+        });
+    });

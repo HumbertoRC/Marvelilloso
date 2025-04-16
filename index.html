@@ -151,36 +151,56 @@
         </div>
 
         <h2 id="movies">Películas</h2>
+
         <h3>MCU: La saga del infinito</h3>
-        <div class="movies" id="movies1">
-            <div class="track" id="movie-track">
-
+        <div class="movies-container">
+            <div class="movies" id="movies1">
+                <div class="track" id="movie-track"></div>
+            </div>
+            <div class="scroll-controls">
+                <button class="scroll-btn left" data-target="movie-track">&#8249;</button>
+                <button class="scroll-btn right" data-target="movie-track">&#8250;</button>
             </div>
         </div>
-
+        
         <br><br>
-
+        
         <h3>MCU: La saga de Multiverso</h3>
-        <div class="movies">
-            <div class="track" id="movie-track2">
-
+        <div class="movies-container">
+            <div class="movies">
+                <div class="track" id="movie-track2"></div>
             </div>
-        </div>
+            <div class="scroll-controls">
+                <button class="scroll-btn left" data-target="movie-track2">&#8249;</button>
+                <button class="scroll-btn right" data-target="movie-track2">&#8250;</button>
+            </div>
+        </div>        
+        
 
         <br><br>
 
         <h2 id="series">Series</h2>
+        <div class="series-container">
         <div class="series">
             <div class="track" id="series-track">
-
             </div>
+        </div>
+        <div class="scroll-controls">
+            <button class="scroll-btn left" data-target="series-track">&#8249;</button>
+            <button class="scroll-btn right" data-target="series-track">&#8250;</button>
+        </div>
         </div>
 
         <h2 id="favorites">Mis favoritos</h2>
+        <div class="favoritos-container">
         <div class="favoritos">
-            <div class="track">
-
+            <div class="track" id="favoritos-track">
             </div>
+        </div>
+        <div class="scroll-controls">
+            <button class="scroll-btn left" data-target="favoritos-track">&#8249;</button>
+            <button class="scroll-btn right" data-target="favoritos-track">&#8250;</button>
+        </div>
         </div>
 
     </section>
